@@ -1,0 +1,2 @@
+# reviveString-Script
+solved algorithm
